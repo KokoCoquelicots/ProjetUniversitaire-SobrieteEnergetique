@@ -24,4 +24,4 @@ Nous avons collecté et analysé des données, puis conçu un site présentant c
 - Développement du site avec HTML, CSS et Chart.js  
 - Création d’animations et d’illustrations (After Effects, Illustrator)
 
-# [Accéder au site]([URL_DU_SITE](https://hoffmannc.etu.mmi-unistra.fr/SAE303/))
+[Accéder au site]([URL_DU_SITE](https://hoffmannc.etu.mmi-unistra.fr/SAE303/))
