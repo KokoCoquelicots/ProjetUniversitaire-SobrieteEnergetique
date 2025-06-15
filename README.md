@@ -3,7 +3,7 @@
 ![Image du projet](sobriete_energetique_site.png)
 
 # Voir le site
-[Accéder au site]([https://www.google.com](https://hoffmannc.etu.mmi-unistra.fr/SAE303/))
+[Accéder au site](https://hoffmannc.etu.mmi-unistra.fr/SAE303/)
 
 ## Thématique  
 Sobriété énergétique appliquée aux voitures.
