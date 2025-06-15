@@ -6,9 +6,8 @@
 Sobriété énergétique appliquée aux voitures.
 
 ## Description  
-Pour ce projet universitaire, nous avons choisi d’étudier l’impact énergétique des voitures.  
-Nous avons collecté et analysé des données, puis conçu un site présentant ces informations de manière claire et interactive.  
-Nous avons réalisé les maquettes et la direction artistique avant de développer le site.
+Pour ce projet universitaire en groupe de 4, nous avons choisi d’étudier l’impact énergétique des voitures.  
+Nous avons collecté et analysé des données, puis conçu un site présentant ces informations de manière claire et ludique.  
 
 ## Technologies et outils utilisés
 
@@ -20,8 +19,8 @@ Nous avons réalisé les maquettes et la direction artistique avant de développ
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
 ## Travail réalisé  
-- Analyse et synthèse des données  
-- Création des maquettes et direction artistique (Figma)  
+- Analyse et synthèse de données statistiques
+- Création des maquettes et de l'iconographie (Figma, Illustrator)  
 - Développement du site avec HTML, CSS et Chart.js  
 - Création d’animations et d’illustrations (After Effects, Illustrator)
 
