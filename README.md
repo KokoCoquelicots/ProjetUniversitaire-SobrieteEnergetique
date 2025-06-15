@@ -12,7 +12,7 @@ Nous avons collecté et analysé des données, puis conçu un site présentant c
 ## Technologies et outils utilisés
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)  
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)  
