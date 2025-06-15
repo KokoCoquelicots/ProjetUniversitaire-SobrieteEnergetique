@@ -2,6 +2,9 @@
 
 ![Image du projet](sobriete_energetique_site.png)
 
+# Voir le site
+[Accéder au site]([https://www.google.com](https://hoffmannc.etu.mmi-unistra.fr/SAE303/))
+
 ## Thématique  
 Sobriété énergétique appliquée aux voitures.
 
@@ -23,5 +26,3 @@ Nous avons collecté et analysé des données, puis conçu un site présentant c
 - Création des maquettes et de l'iconographie (Figma, Illustrator)  
 - Développement du site avec HTML, CSS et Chart.js  
 - Création d’animations et d’illustrations (After Effects, Illustrator)
-
-[Google](https://www.google.com)
