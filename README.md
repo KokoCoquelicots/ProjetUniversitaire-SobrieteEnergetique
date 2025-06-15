@@ -9,7 +9,7 @@ Sobriété énergétique appliquée aux voitures.
 Pour ce projet universitaire en groupe de 4, nous avons choisi d’étudier l’impact énergétique des voitures.  
 Nous avons collecté et analysé des données, puis conçu un site présentant ces informations de manière claire et ludique.  
 
-## Technologies et outils utilisés
+## Languages et outils utilisés
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)  
