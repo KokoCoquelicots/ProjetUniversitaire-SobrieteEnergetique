@@ -1,6 +1,6 @@
 # Projet Universitaire - Sobriété Énergétique
 
-![Image du projet](URL_DE_TON_IMAGE)
+![Image du projet](sobriete_energetique_site.png)
 
 ## Thématique  
 Sobriété énergétique appliquée aux voitures.
